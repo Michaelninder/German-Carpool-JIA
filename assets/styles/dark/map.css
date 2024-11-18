@@ -1,0 +1,5 @@
+#map {
+  border: 10px solid #333;  /* Dark border */
+  border-radius: 20px;      /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* Optional: Adds shadow for more depth */
+}
