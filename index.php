@@ -3,7 +3,6 @@ include 'http://134.255.225.220:1234/config.php';
 echo $someConfigVariable;
 ?>
 
-
 <!DOCTYPE html>
 <html lang="de">
 <head>
@@ -16,7 +15,6 @@ echo $someConfigVariable;
     <link rel="stylesheet" href="assets/styles/" />
 </head>
 <body>
-
 
 <?php
 include 'assets/pages/map.php';
