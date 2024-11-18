@@ -1,1 +1,4 @@
-HI
+
+<?php
+import "includes/map.php"
+?>
