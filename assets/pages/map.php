@@ -27,25 +27,10 @@
         
         
         
-        
     <div id="map"></div>
         
         
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-   
-    
     <?php if (!isset($data) || empty($data)): ?>
         <p>Keine Daten gefunden.</p>
     <?php endif; ?>
