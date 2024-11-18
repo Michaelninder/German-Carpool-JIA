@@ -13,7 +13,7 @@
 
 
 <?php
-include 'includes/map.php';
+include 'assets/php/map.php';
 ?>
 
 </body>
