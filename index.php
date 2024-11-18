@@ -18,7 +18,9 @@ echo $someConfigVariable;
 
 <?php
 include 'assets/pages/map.php';
+include 'assets/javascript/map.php';
 ?>
+
 
 </body>
 </html>
