@@ -12,8 +12,7 @@ echo $someConfigVariable;
     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
     <link rel="stylesheet" href="https://unpkg.com/leaflet-routing-machine/dist/leaflet-routing-machine.css" />
     <link rel="stylesheet" href="assets/styles/<?php echo ${page.name}; ?>.css" />
-    <link rel="stylesheet" href="assets/styles/<?php echo ${user.mode}; ?>/
-<?php echo ${page.name}; ?>.css" />
+    <link rel="stylesheet" href="assets/styles/<?php echo ${user.mode}; ?>/<?php echo ${page.name}; ?>.css" />
 </head>
 <body>
 
