@@ -24,5 +24,4 @@ include 'assets/javascript/map.php';
 </body>
 </html>
 Page: <?php echo ${page.name}; ?>
-
-<?php echo ${page.name}; ?>
+Mode: <?php echo ${user.mode}; ?>
