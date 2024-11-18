@@ -1,6 +1,8 @@
 <?php
 include 'http://134.255.225.220:1234/config.php';
 echo $someConfigVariable;
+
+${user.mode} = dark;
 ?>
 
 <!DOCTYPE html>
