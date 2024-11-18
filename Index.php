@@ -15,3 +15,6 @@
 <?php
 import "includes/map.php";
 ?>
+
+</body>
+</html>
