@@ -1,4 +1,4 @@
 
 <?php
-import "includes/map.php"
+import "includes/map.php";
 ?>
